@@ -13,7 +13,6 @@ continually learning new aspects of this fantastic world!</p>
 
 - 💬 Ask me about **Javascript, vue, bootstrap, sass**
 
-- 📫 How to reach me: **maiteladaria@gmail.com**
 
 
 </p>
