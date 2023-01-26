@@ -7,9 +7,7 @@ continually learning new aspects of this fantastic world!</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mls535&label=Profile%20views&color=0e75b6&style=flat" alt="mls535" /> </p>
 
 
-- 🔭 I’m currently working on [Harmonyxs](http://www.harmonyxs.com/)
-
-- 🌱 I’m currently learning **Angular and react**
+- 🌱 I’m currently learning **Vue developer**
 
 - 💬 Ask me about **Javascript, vue, bootstrap, sass**
 
