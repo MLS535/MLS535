@@ -1,16 +1,22 @@
 <h1 align="center">Hi 👋, I'm Maite Ladaria</h1>
 
-<p>My name is Maite Ladaria and I just graduated from Web Development
-course. I ♥ front-end and working with Javascript and 
-continually learning new aspects of this fantastic world!</p>
+<p>
+  I'm a passionate software developer focused on building modern web and mobile applications using
+  <strong>Vue 3 (Composition API + TypeScript)</strong>, <strong>.NET</strong> for backend development, and <strong>React Native</strong> for cross-platform mobile apps.
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mls535&label=Profile%20views&color=0e75b6&style=flat" alt="mls535" /> </p>
+<p>
+  I love front-end technologies, clean architecture, and continuously expanding my knowledge in fullstack development.
+</p>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mls535&label=Profile%20views&color=0e75b6&style=flat" alt="mls535" />
+</p>
 
-- 🌱 I’m currently learning **Vue developer**
-
-- 💬 Ask me about **Javascript, vue, bootstrap, sass**
-
+- 🔭 I’m currently working on projects with **Vue, .NET and React Native**  
+- 🌱 Always exploring best practices in **TypeScript, backend architecture, and mobile UX**  
+- 💬 Ask me about **Vue Composition API, .NET (C#), React Native, Bootstrap and SCSS**  
+- ⚡ Fun fact: I enjoy turning complex ideas into clean, maintainable code
 
 
 </p>
